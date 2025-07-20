@@ -1,0 +1,22 @@
+{
+  "name": "xero-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "open": "^10.2.0",
+    "openid-client": "^5.7.0",
+    "xero-node": "^5.1.0"
+  },
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
